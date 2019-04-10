@@ -7,11 +7,12 @@ body {
   font-weight: bold;
   text-align: center;
   text-decoration: underline;
+  font-size: 35px;
 }
 
 .animal-information {
   border: 5px solid black;
-  border-width: thin;
+  border-width: medium;
 }
 
 .image-container {
