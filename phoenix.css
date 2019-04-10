@@ -35,6 +35,10 @@ body {
   font-size: 20px; 
 }
 
+span {
+  font-weight: bold;
+}
+
 .about-phoenix {
   color: 	#3D0F0C;
   font-weight: bold;
@@ -44,4 +48,8 @@ body {
 .about-information {
   text-align: center;
   font-size: 20px;
+}
+
+.copyright {
+  text-align: center;
 }
